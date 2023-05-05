@@ -7,7 +7,7 @@ Citation
 =========
 
 
-Please cite the following paper if using these lexica in an academic publication:
+Please cite the following paper if you use these lexica in an academic publication:
 
 Moonis Ali and Savvas Zannettou
 `Analyzing Antisemitism and Islamophobia using a Lexicon-based Approach In Proceedings of the
