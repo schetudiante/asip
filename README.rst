@@ -22,4 +22,3 @@ Bibtex:
   author={Moonis Ali and Savvas Zannettou},
   booktitle={ICWSM Workshops},
   year={2022}
-}
