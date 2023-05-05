@@ -1,6 +1,6 @@
 .. -*- mode: rst -*-
 
-# AntiSemitism and Islamopobia lexica
+## Antisemitism and Islamopobia lexica
 Final curated lexica for AntiSemitism and Islamophobia presented in paper: "Analyzing Antisemitism and Islamophobia using a Lexicon-based Approach".
 
 Citation
